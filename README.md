@@ -1,4 +1,5 @@
 # OOPS-in-Javascript
 
-#Resources: 
-https://dev.to/nehal_mahida/oops-in-javascript-with-easy-to-understand-examples-2ppn
+<u>Resources:</u>
+<br>
+<a href = "https://github.com/vasucp1207/OOPS-in-Javascript/edit/main/README.md" >Basics-Intro </a>
